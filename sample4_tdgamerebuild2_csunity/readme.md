@@ -1,6 +1,12 @@
 # Sample 4 readme
 
-This sample is written in C# based on Unity3D. This sample is the whole project of a tower-defense game. Aiming at refactoring (this is only the second time I tried to rewrite the project, and the third is still better but I do not with to post it up because of the incompleteness) the aforementioned TD game, the gameplay experience would be mostly the same as the last one, but several programming details are tremendously improved.
+Author: Song Jian
+
+Code Creation Time: March 2018 - April 2018
+
+This sample is written in C# based on Unity3D.
+
+This sample is the whole project of a tower-defense game. Aiming at refactoring (this is only the second time I tried to rewrite the project, and the third is still better but I do not with to post it up because of the incompleteness) the aforementioned TD game, the gameplay experience would be mostly the same as the last one, but several programming details are tremendously improved.
 
 - Each scripts are contained in a specific folder and the folder indicated its aim, such as **EnemyBuff** folder contains several common enemy debuffs while debuffs delimated by perks are still writen in the perk file.
 - Each perk is now seperate files instead of a wagonload of if clauses and function invocations. So are the properties and abilities. This means the encapsulation is much better, and a collaborator shall not need to edit some base classes to build a new perk.

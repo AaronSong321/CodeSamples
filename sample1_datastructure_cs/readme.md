@@ -1,6 +1,12 @@
 # Sample 1 Readme
 
-This sample is written in pure C# on .NET core. The content concerns high-level data structures and related algorithms. Due to brevity constriction, this code sample contains only several files and therefore cannot be demonstrated or built.
+Author: Song Jian
+
+Code Creation Time: June 2019 - July 2019
+
+This sample is written in pure C# on .NET core.
+
+The content concerns high-level data structures and related algorithms. Due to brevity constriction, this code sample contains only several files and therefore cannot be demonstrated or built.
 
 ## Code Contents
 

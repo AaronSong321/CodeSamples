@@ -1,6 +1,12 @@
 # Sample 2 Readme
 
-This code sample is written in C++ based on Unreal Editor (Version 4.22). This is a basic tower-defense game with several elements including enemies, turrets, bullets, and enemy debuffs. Due to brevity constriction, only two classes are shown here, including **ATower** and **AEnemy**.
+Author: Song Jian
+
+Code Creation Time: October 2019 - November 2019
+
+This code sample is written in C++ based on Unreal Editor (Version 4.22).
+
+This is a basic tower-defense game with several elements including enemies, turrets, bullets, and enemy debuffs. Due to brevity constriction, only two classes are shown here, including **ATower** and **AEnemy**.
 The whole project includes main classes, structs, or enums:
 
 - **ABase** describes the basement of a tower-defense game.
