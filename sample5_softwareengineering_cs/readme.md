@@ -21,6 +21,4 @@ This sample comes from a software that designs and implements a universal educat
 
 . As delimited by the name of the subsystems, the four subsystems cover the most need of an education service. The first two subsystems provide supporting functions such as login, registration and message notification; while the last two provide course creation (CRUD actually), exam creation, question creation, automatic paper generation function and so on.
 
-## Technical Details
-
-This part is partial.
+You may check the whole project on [Github](https://github.com/AaronSong321/UniversalEducationService)
